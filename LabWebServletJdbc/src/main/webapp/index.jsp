@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h3>Welcome ${user.custid}</h3>
+<h3>Welcome 今天天氣很好${user.custid}</h3>
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
